@@ -5,6 +5,6 @@ class  Cat
 end
 
 def cat_call
-  puts "meow"
+  puts "meow!"
 end
 end
