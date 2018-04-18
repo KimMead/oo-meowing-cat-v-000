@@ -1,12 +1,13 @@
 ## code your solution here.
 class  Cat
 attr_accessor :name
+attr_accessor :meow
 
   def initialize
-    cat_call
+    meow
 end
 
-def cat_call
+def meow
   puts "meow!"
 end
 end
